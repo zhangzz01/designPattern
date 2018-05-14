@@ -8,7 +8,6 @@ package designpattern.simplefactory;
  * @Title operationSub
  * @Description：减法
  * @Author: ZZZ
- * @Date: 2018/5/14 11:38
  */
 
 public class OperationSub extends Operation {

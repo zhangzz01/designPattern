@@ -8,7 +8,6 @@ package designpattern.simplefactory;
  * @Title operationDiv
  * @Description：除法
  * @Author: ZZZ
- * @Date: 2018/5/14 11:40
  */
 
 public class OperationDiv extends Operation {

@@ -8,7 +8,6 @@ package designpattern.simplefactory;
  * @Title operationFactory
  * @Description：
  * @Author: ZZZ
- * @Date: 2018/5/14 11:44
  */
 
 public class OperationFactory {
@@ -28,6 +27,8 @@ public class OperationFactory {
             case '/':
                 operation=new OperationDiv();
                 break ;
+            default:
+                System.out.println("default");
         }
 
         return operation;

@@ -5,10 +5,9 @@
 package designpattern.simplefactory;
 
 /**
- * @Title test
+ * @Title Client
  * @Description：
  * @Author: ZZZ
- * @Date: 2018/5/14 11:52
  */
 
 public class Client {
