@@ -8,7 +8,6 @@ package designpattern.strategy;
  * @Title Client
  * @Description：
  * @Author: ZZZ
- * @Date: 2018/5/14 19:43
  */
 
 public class Client {
